@@ -1,6 +1,5 @@
 import axios from "axios";
 
-
 export const addFav = (character) => {
    return async (dispatch) => {
      try {
